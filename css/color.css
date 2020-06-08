@@ -35,3 +35,9 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+.card{
+    color: black;
+    border: black ;
+
+}
+
