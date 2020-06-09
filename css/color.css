@@ -38,6 +38,12 @@ body{
 .card{
     color: black;
     border: black ;
-
+    ;
 }
-
+.row-card{
+    margin-bottom: 1rem;
+}
+.card-header{
+    background-color: orangered;
+    color:white;
+    font-size: ;
